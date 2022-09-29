@@ -7,6 +7,6 @@
     "method-override": "~2.0.2",
     "mongoose": "~3.8.0",
     "node-cmd": "^5.0.0",
-    "node-ssh": "^13.0.0"
+    "node-ssh": "^12.0.5"
   }
 }
